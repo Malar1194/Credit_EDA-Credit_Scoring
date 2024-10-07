@@ -2,7 +2,7 @@
 <kbd>![Designer (10)](https://github.com/user-attachments/assets/4dd2d19a-3ba6-488a-b9e9-2d6e52416d74)</kbd>
 
 
-## <font color="gold">Problem statement</font>
+## <font color="gold">Problem statement</font> 🔊
 
 * The project aims to analyze customer bank and credit data to create informative features, calculate a hypothetical credit score, and uncover patterns that influence creditworthiness, supporting risk mitigation strategies.
 
@@ -42,7 +42,7 @@
 | Monthly_Balance           | Represents the monthly balance amount of the customer (in USD)   |
 
 
-### Methodology
+### Methodology🎨
 
 > Exploratory Data Analysis (EDA):
 
@@ -65,7 +65,7 @@
 > Analysis and Insights
 
 * Generated insights from EDA and credit score calculations.
-* 
+  
 
 
 
